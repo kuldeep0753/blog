@@ -1,12 +1,12 @@
 import './App.css';
-import {Users} from './Users/Users';
+import {Navbar} from './Navbar/Navbar';
 
 
 function App() {
-  //  const Users = () => {
+  //  const Navbar = () => {
   //   return (
   //     <>
-  //     <h1> Hello Users</h1>
+  //     <h1> Hello Navbar</h1>
   //     <p>Hi! I am kuldeepo Singn kushwaha</p>
   //     </>
       
@@ -15,14 +15,14 @@ function App() {
   return (
     <div className="App">
      {/* <h1>Checking my first App</h1> */}
-     <Users/>
+     <Navbar/>
     </div>
   );
 }
-// export const Users = () => {
+// export const Navbar = () => {
 //   return (
 //     <>
-//     <h1> Hello Users</h1>
+//     <h1> Hello Navbar</h1>
 //     <p>Hi! I am kuldeepo Singn kushwaha</p>
 //     </>
     
