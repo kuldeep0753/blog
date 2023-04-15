@@ -1,7 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Muli&display=swap');;
-.check{
-    /* background-color: aqua; */
-}
+
 button {
     appearance: auto;
     writing-mode: horizontal-tb !important;
@@ -55,7 +53,6 @@ ul {
 
 
 .itemsAlign{
-    /* margin-inline-start: 61%; */
     display: flex;
     justify-content: right;
     position: relative;
@@ -65,7 +62,6 @@ ul {
 .feature{
     list-style: none;
     display: flex;
-    /* margin-right: 60%; */
     column-gap: 9px;
     margin-top: 9px;
     text-decoration: none;
